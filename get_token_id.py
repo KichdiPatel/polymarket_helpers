@@ -71,9 +71,3 @@ if __name__ == "__main__":
 
     token_ids = get_token_ids(slug)
     print(json.dumps(token_ids, indent=2))
-
-    # print(
-    #     get_price(
-    #         "18224870408792512258118886968968090408019806378710913551091078160257337653032"
-    #     )
-    # )
